@@ -295,8 +295,6 @@ client.on('message', function(msg) {
 
     if (getRandomInt(3) == 0) {
       msg.channel.send("THE FUCK YOU SAY TO ME U LITTLE BITCH???");
-      setTimeout(endTimer(""), 6500);
-      isTimerActive = true;
     }
   }
 }
