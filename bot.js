@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NDU4NzM2NTQwMjg2MTg5NTY4.XtFc5w.idjrV5m-pu66s_kdyGA8d_j9XLg');
+client.login('CONFIDENTIAL');
 var memberWhoStartedLynchParty = "";
 var memberWhoIsBeingLynched = "";
 
